@@ -1,0 +1,11 @@
+requests
+python-dotenv
+numpy
+pandas
+soundfile
+librosa
+matplotlib
+faster-whisper
+datasets<4.0
+torch
+ipykernel
