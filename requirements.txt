@@ -9,3 +9,5 @@ faster-whisper
 datasets<4.0
 torch
 ipykernel
+sounddevice
+ffmpeg
